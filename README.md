@@ -1,4 +1,4 @@
-# golang-webapp-project-template
+# go-webapp-project-template
 
 ## Preface
 This repository is a template for implementing web application in golang.
